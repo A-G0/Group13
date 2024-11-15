@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .dropdown-menu-green {
-    background-color: green;
+    background-color: #00ff55;
     min-height: 100vh;
 }
 
@@ -16,7 +16,7 @@
 }
 
 body{
-    background-color: darkgrey;
+    background-color: #4700ff;
 }
 
 .dropdown-header{
